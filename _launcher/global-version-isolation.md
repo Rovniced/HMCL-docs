@@ -1,8 +1,8 @@
 ---
 title:  "全局版本隔离"
-permalink: /help/launcher/isolation.html
+permalink: /launcher/isolation.html
 date:   2021-10-09 23:18:02 +0800
-categories: HMCL
+categories: 启动器
 toc: true
 ---
 > 本文由 LIPiston 编写。
@@ -39,5 +39,5 @@ toc: true
 在做完版本隔离的设置后，hmcl 的快速打开各个游戏文件夹的功能就会显得十分重要。
 ![](assets/img/docs/Global-version-isolation/img2.png)
 
-
 善用该功能也可为你的磁盘剩下不少的空间
+
